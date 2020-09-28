@@ -1,1 +1,4 @@
 body{background-color:red;}
+img {float:right;}
+
+img:nth-of-type(2);{float-:left;}
