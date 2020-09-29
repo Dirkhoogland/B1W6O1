@@ -1,8 +1,8 @@
 body{background-color:gray;font-style:'Roboto', sans-ser if;}
 
-li {color:black; font-size: 20px; line-height: 26px;}
+li, p {color:black; font-size: 20px; line-height: 26px;}
 
-
+li {margin-bottom: 5px; margin-top: 5px;}
 
 .size {
 	font-size: 32px; line-height: 32px;
@@ -14,13 +14,19 @@ li {color:black; font-size: 20px; line-height: 26px;}
 	
 	
 }
+h1{font-size: 32px; line-height: 32px; margin-top:20px; margin-bottom: 20px;}
+.para {
+	font-size:24px; line-height:32px; 
+}
 
 .title{
 	font-size:36px; line-height: 36px;
 }
 
 .tip {
-  
+  border-radius: 4px;
   display:#def6ed;
-  padding: 10px;
+  margin: 25px;
 }
+
+.uitleg {margin-bottom: 20px;}
