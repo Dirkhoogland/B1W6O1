@@ -1,10 +1,24 @@
-body{background-color:gray;}
-li{font-style:'Roboto', sans-ser if;}
-img {float:right;}
+body{background-color:gray;font-style:'Roboto', sans-ser if;}
+
+li, p {color:black; font-size: 20px; line-height: 26px;}
+
+
+
+.size {
+	font-size: 32px; line-height: 32px;
+}
 
 .margin {
-	margin-bottom:0 auto;
-	margin-top:0 auto;
-	margin-right:0 auto;
-	margin-left:0 auto;
+	margin:auto; 
+	
+}
+
+.title{
+	font-size:36px; line-height: 36px;
+}
+
+.tip {
+  margin: auto;
+  content:#def6ed;
+  padding: 10px;
 }
