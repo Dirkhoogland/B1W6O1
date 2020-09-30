@@ -1,4 +1,4 @@
-body{background-color:gray;font-style:'Roboto', sans-ser if;}
+body{;font-family:'Roboto', sans-ser if;}
 
 li, p {color:black; font-size: 20px; line-height: 26px;}
 
@@ -24,8 +24,9 @@ h1{font-size: 32px; line-height: 32px; margin-top:20px; margin-bottom: 20px;}
 }
 
 .tip {
+border-style: block;
   border-radius: 4px;
-  display:#def6ed;
+ border-color:#def6ed;
   margin: 25px;
 }
 
